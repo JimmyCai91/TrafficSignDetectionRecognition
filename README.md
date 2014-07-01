@@ -9,4 +9,5 @@ Features of this topic:
 Software requirement:
 
   1) Libsvm for c++
+  
   2) OpenCV

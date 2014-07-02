@@ -1,6 +1,12 @@
 //=== this is the main part of this traffic sign detection and recognition project
  //== i finish both detection and recognition function in this .cpp file
-	//== Jinzheng Cai, 2014/07/02
+ //== struct of this project
+ 	//=== svm model file is in the ..\svmmodel file
+ 	//=== traffic video is in the ..\Images file
+ 	//=== libsvm is in the ..\libsvm file
+
+
+//== Jinzheng Cai, 2014/07/02
 
 #include <opencv2\opencv.hpp>
 #include <stdlib.h>
